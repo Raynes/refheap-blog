@@ -37,6 +37,7 @@ We currently have what we feel to be an excellent pastebin as it stands.
 * A full-screen view of a paste. Have you ever used htmlfontify in Emacs to dump a buffer (syntax highlighting/background and all) to an HTML file? Picture that.
 * A raw view of a paste.
 * Forking. Similar to gists, we want users to be able to hit a single button and get a copy of a paste on their own account.
+* SSL. The site automatically redirects non-https traffic to https, just like gist. We care about your privacy too.
 
 ## What We Want
 
@@ -45,8 +46,8 @@ We have a ton of [issues](http://github.com/Raynes/refheap/issues) on Github and
 * Even prettier syntax highlighting.
 * All kinds of statistics and information about pastes. Number of them, number of them by language, etc.
 * Revisions. Also similar to gists, we want to keep revisions of all edits you've made on a paste. When you fork a paste, these will come with it.
+* Diffs on revisions and perhaps the ability to roll back changes.
 * Searching/filtering pastes.
-* SSL for private pastes. We know security is important and we're currently waiting on validation for our SSL certificate.
 
 A lot of these are very, very simple things that will be appearing very quickly now that we've got the really important and hard stuff done. Want more? Tell us!
 
@@ -61,7 +62,7 @@ RefHeap is already pretty cool, but we're working hard to make it *awesome*. We 
 * Write libraries/tools with our API. We have a full [API](http://refheap.com/api). The lazybot IRC bot that you can find in the #clojure IRC channel already uses refheap for pasting. [4Clojure](http://4clojure.com) will be using it soon. You should too! We have our API library in Clojure, but we want to see libraries for all sorts of languages! Stake your claim and write one. Seriously, go do it now.
 * Follow us on Twitter [@RefHeap](http://twitter.com/RefHeap).
 
-This is it. We're launching this sucker. We really like how RefHeap is turning out, and we hope you do too. Now go forth and paste!
+This is it. Enough talking. We're launching this sucker. We really like how RefHeap is turning out, and we hope you do too. Now go forth and paste!
 
 Sincerely,
 
