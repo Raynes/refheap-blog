@@ -49,7 +49,7 @@ We have a ton of [issues](http://github.com/Raynes/refheap/issues) on Github and
 * Diffs on revisions and perhaps the ability to roll back changes.
 * Searching/filtering pastes.
 
-A lot of these are very, very simple things that will be appearing very quickly now that we've got the really important and hard stuff done. Want more? Tell us!
+A lot of these things are mostly trivial and will be appearing very quickly now that we've got the really important and hard stuff done. Want more? Tell us!
 
 ## Conclusion
 
