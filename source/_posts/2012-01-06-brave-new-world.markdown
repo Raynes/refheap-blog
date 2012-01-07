@@ -26,7 +26,7 @@ We currently have what we feel to be an excellent pastebin as it stands.
 
 * With support for over 120 languages, we already support more than [Pastie](http://pastie.org).
 * A UI that doesn't slap you in the face.
-* A full featured and documented [API](https://refheap.com/api).
+* A full featured and documented [API](http://refheap.com/api).
 * A [Clojure library](https://github.com/Raynes/innuendo) for that API.
 * Private pastes.
 * User accounts that give you your own user pages with a list of your public pastes (and your private pastes when you alone are looking).
@@ -46,6 +46,7 @@ We have a ton of [issues](http://github.com/Raynes/refheap/issues) on Github and
 * All kinds of statistics and information about pastes. Number of them, number of them by language, etc.
 * Revisions. Also similar to gists, we want to keep revisions of all edits you've made on a paste. When you fork a paste, these will come with it.
 * Searching/filtering pastes.
+* SSL for private pastes. We know security is important and we're currently waiting on validation for our SSL certificate.
 
 A lot of these are very, very simple things that will be appearing very quickly now that we've got the really important and hard stuff done. Want more? Tell us!
 
