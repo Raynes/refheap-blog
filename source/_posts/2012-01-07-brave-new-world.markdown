@@ -8,7 +8,7 @@ categories:
 
 [RefHeap](http://refheap.com) (short for Reference Heap) is a pasting website. It is being built by myself ([Anthony Grimes](http://github.com/Raynes)) and [Alex McNamara](http://github.com/amcnamara). You may know us (him in particular) as contributors to the popular Clojure learning website [4Clojure](http://4clojure.com).
 
-RefHeap is built with [Clojure](http://clojure.org) from the ground up. There is a little jQuery thrown in there, but almost all of the site is Clojure. We are taking advantage of awesome technologies such as [MongoDB](http://www.mongodb.org/), the [Noir](http://webnoir.org/) web framework, and the excellent [Pygments](http://pygments.org/) syntax highlighting tool.
+RefHeap is built with [Clojure](http://clojure.org) and uses a lot of fantastic tools. We are taking advantage of awesome technologies such as [MongoDB](http://www.mongodb.org/), the [Noir](http://webnoir.org/) web framework, and the excellent [Pygments](http://pygments.org/) syntax highlighting tool.
 
 Development on this service began right around two weeks ago. Today, Alex and I are excited to launch this website. It has been running at <http://refheap.com> for the majority of those two weeks and we have been using it ourselves. We feel that it is currently stable and useful enough to make available to the public.
 
@@ -67,3 +67,7 @@ This is it. Enough talking. We're launching this sucker. We really like how RefH
 Sincerely,
 
 Anthony Grimes and Alex McNamara.
+
+**update**
+
+I updated a sentence near the top where I originally said the site was built from the ground up in Clojure. Some people felt that I was being insincere because we actually use Pygments on the backend for syntax highlighting. We use a *lot* of great tools on the backend. I don't want to imply in any way that Clojure is our sole tool.
