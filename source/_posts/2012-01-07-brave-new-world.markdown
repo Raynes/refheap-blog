@@ -70,4 +70,4 @@ Anthony Grimes and Alex McNamara.
 
 **update**
 
-I updated a sentence near the top where I originally said the site was built from the ground up in Clojure. Some people felt that I was being insincere because we actually use Pygments on the backend for syntax highlighting. We use a *lot* of great tools on the backend. I don't want to imply in any way that Clojure is our sole tool.
+I updated a sentence near the top where I originally said the site was built from the ground up in Clojure. Some people felt that I was being insincere because we actually use Pygments on the backend for syntax highlighting. We use a couple of great tools on the backend. I don't want to imply in any way that Clojure is our sole tool.
